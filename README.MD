@@ -1,5 +1,6 @@
 # minishell<br/>
 ### to start<br/>
+cd to project dir<br/>
 make<br/>
 ./minishell<br/>
 
