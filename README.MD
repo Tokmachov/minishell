@@ -1,6 +1,6 @@
 # minishell<br/>
 ### to start<br/>
-make
+make<br/>
 ./minishell<br/>
 
 ### functions<br/>
